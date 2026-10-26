@@ -26,9 +26,9 @@ SpendWise is a full-stack, AI-integrated expense tracker designed as a polished 
 
 ## Tech Stack
 
-- React 19 + TypeScript
+- React 19 
 - Vite
-- Tailwind CSS 4
+- CSS 4
 - Express 4
 - tRPC 11
 - Drizzle ORM
